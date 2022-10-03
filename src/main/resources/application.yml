@@ -1,0 +1,13 @@
+#spring:
+#  datasource:
+#    url: jdbc:sqlserver://zero-kelvin.database.windows.net:1433;database=Swasthify-db;user=zerokelvin@zero-kelvin;password={your_password_here};encrypt=true;trustServerCertificate=false;hostNameInCertificate=*.database.windows.net;loginTimeout=30;
+#    username: zerokelvin
+#    password: ZeroK25!
+#  jpa:
+#    show-sql: true
+#    hibernate:
+#      ddl-auto: update
+#      dialect: org.hibernate.dialect.SQLServer2012Dialect
+#      
+#server:
+#  port: 8080
